@@ -20,6 +20,11 @@ The project is structured as follows:
 - **`inference/`**: Holds scripts responsible for running inference.
 - **`utils/`**: Contains any utility functions (optional).
 
+### Frontend:
+- **`public/`**: Contains static files like HTML, images, etc., for the frontend.
+- **`src/`**: The source code of the React app, including components and entry point files (`App.js`, `index.js`).
+- **`package.json`**: Manages React app dependencies and scripts.
+
 ### Scripts:
 - **`test.py`**: Script for testing the model, running inference on input images, and saving results.
 
