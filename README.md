@@ -1,6 +1,6 @@
 
 # fastner-vision-application
-tection & Classification Demo
+Dtection & Classification Demo
 
 This repository contains a full-stack demo application for object detection and classification using YOLOv8. It includes:
 
